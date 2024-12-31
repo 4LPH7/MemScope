@@ -1,6 +1,6 @@
 # Memory Forensics Tool
 
-A Python-based tool for performing basic memory forensics tasks, including capturing memory dumps, analyzing processes, detecting malicious patterns, and extracting artifacts.
+    A Python-based tool for performing basic memory      forensics tasks, including capturing memory dumps, analyzing processes, detecting malicious patterns, and extracting artifacts.
 
 ## Features
 
